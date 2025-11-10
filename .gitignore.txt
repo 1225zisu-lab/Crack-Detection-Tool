@@ -1,0 +1,21 @@
+# MATLAB temp / backup files
+*.asv
+*.autosave
+
+# Dataset
+data/
+data/*
+
+# Reports
+reports/
+reports/*
+
+# Models (Optional — remove if you want to upload)
+*.mat
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore cache folders
+*.m~*
